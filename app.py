@@ -1,4 +1,4 @@
-!pip install streamlit joblib scikit-learn pandas
+#!pip install streamlit joblib scikit-learn pandas
 
 '''
 se ejecuta primero cargan las bibliotecas requeridas con
