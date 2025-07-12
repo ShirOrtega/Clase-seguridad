@@ -1,5 +1,5 @@
 streamlit
-stream-learn
+scikit-learn
 pandas
 pillow
 joblib
